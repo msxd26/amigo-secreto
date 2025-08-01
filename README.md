@@ -1,6 +1,6 @@
 # 🎁 Proyecto Amigo Secreto
 
-Este proyecto es una aplicación web simple para organizar un juego de **Amigo Secreto (o Amigo Invisible)**. Permite a los usuarios ingresar nombres de participantes y luego seleccionar aleatoriamente a un amigo secreto.
+Este proyecto es una aplicación web simple para organizar un juego de **Amigo Secreto**. Permite a los usuarios ingresar nombres de participantes y luego seleccionar aleatoriamente a un amigo secreto.
 
 ## 🚀 Funcionalidades
 
